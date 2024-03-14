@@ -1,0 +1,35 @@
+C:\Users\Cannon's PC\Desktop\My Awesome Program\bin\Debug\net8.0\My Awesome Program.exe
+C:\Users\Cannon's PC\Desktop\My Awesome Program\bin\Debug\net8.0\My Awesome Program.deps.json
+C:\Users\Cannon's PC\Desktop\My Awesome Program\bin\Debug\net8.0\My Awesome Program.runtimeconfig.json
+C:\Users\Cannon's PC\Desktop\My Awesome Program\bin\Debug\net8.0\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\My Awesome Program\bin\Debug\net8.0\My Awesome Program.pdb
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\My Awesome Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\My Awesome Program.AssemblyInfoInputs.cache
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\My Awesome Program.AssemblyInfo.cs
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\My Awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\refint\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\My Awesome Program.pdb
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\My Awesome Program.genruntimeconfig.cache
+C:\Users\Cannon's PC\Desktop\My Awesome Program\obj\Debug\net8.0\ref\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\Coding\Projects\My Awesome Program\obj\Debug\net8.0\My Awesome Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cannon's PC\Desktop\Coding\Projects\My Awesome Program\obj\Debug\net8.0\My Awesome Program.AssemblyInfoInputs.cache
+C:\Users\Cannon's PC\Desktop\Coding\Projects\My Awesome Program\obj\Debug\net8.0\My Awesome Program.AssemblyInfo.cs
+C:\Users\Cannon's PC\Desktop\Coding\Projects\My Awesome Program\obj\Debug\net8.0\My Awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\Cannon's PC\Desktop\Coding\Projects\My Awesome Program\obj\Debug\net8.0\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\Coding\Projects\My Awesome Program\obj\Debug\net8.0\refint\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\Coding\Projects\My Awesome Program\obj\Debug\net8.0\My Awesome Program.pdb
+C:\Users\Cannon's PC\Desktop\2045.EXE\bin\Debug\net8.0\My Awesome Program.exe
+C:\Users\Cannon's PC\Desktop\2045.EXE\bin\Debug\net8.0\My Awesome Program.deps.json
+C:\Users\Cannon's PC\Desktop\2045.EXE\bin\Debug\net8.0\My Awesome Program.runtimeconfig.json
+C:\Users\Cannon's PC\Desktop\2045.EXE\bin\Debug\net8.0\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\2045.EXE\bin\Debug\net8.0\My Awesome Program.pdb
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\My Awesome Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\My Awesome Program.AssemblyInfoInputs.cache
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\My Awesome Program.AssemblyInfo.cs
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\My Awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\refint\My Awesome Program.dll
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\My Awesome Program.pdb
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\My Awesome Program.genruntimeconfig.cache
+C:\Users\Cannon's PC\Desktop\2045.EXE\obj\Debug\net8.0\ref\My Awesome Program.dll
